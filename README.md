@@ -1,8 +1,8 @@
 # Tableau Dashboards
 
 ## Table of contents
-- [(1)ABC Company Marketing Campaign](#(1)abc-company-marketing-campaign)
-- [(2) Superstore Data Analytics](#(2)superstore-data-analytics)
+- [(1)ABC Company Marketing Campaign](#(1)-abc-company-marketing-campaign)
+- [(2) Superstore Data Analytics](#(2)-superstore-data-analytics)
 
 
 ## (1)ABC Company Marketing Campaign
