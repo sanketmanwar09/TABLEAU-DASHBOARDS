@@ -30,7 +30,7 @@
 ---
 1. April 2021 has the highest profit, with profit ratio of 51%.
 2. September 2022 has the lowest profit,with profit ratio of 9%.
-3. Although marketing cost increased in AUgust & September , Profit ratio was below 15%.
+3. Although marketing cost increased in August & September , Profit ratio was below 15%.
 
 
 # (2) Customer Incident Report
