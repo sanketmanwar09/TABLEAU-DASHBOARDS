@@ -18,6 +18,7 @@
 8.  Sales by agents
 
 ## Dashboards
+---
 ### D1               
 ![](D1.jpg)        
 ### D2               
@@ -26,6 +27,7 @@
  ![](D3.jpg)     
 
 ## Findings
+---
 1. April 2021 has the highest profit, with profit ratio of 51%.
 2. September 2022 has the lowest profit,with profit ratio of 9%.
 3. Although marketing cost increased in AUgust & September , Profit ratio was below 15%.
