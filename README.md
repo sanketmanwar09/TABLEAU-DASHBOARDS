@@ -16,4 +16,15 @@
 7.  Transaction methods
 8.  Sales by agents
 
+## Dashboards
+###         D1               
+![](D1.jpg)        
+         
 
+  ###      D2               
+   ![](D2.jpg)     
+
+###        D3               
+   ![](D3.jpg)     
+
+  
