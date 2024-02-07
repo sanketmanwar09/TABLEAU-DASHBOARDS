@@ -1,7 +1,7 @@
 # Tableau Dashboards
 
 ## Table of contents
--[(1)ABC Company Marketing Campaign]((1)abc-company-marketing-campaign)
+- [(1)ABC Company Marketing Campaign](#(1)abc-company-marketing-campaign)
 
 ## (1)ABC Company Marketing Campaign
 ![](Marketing_campaign.webp)
