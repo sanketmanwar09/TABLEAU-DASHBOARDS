@@ -10,6 +10,8 @@
 ---
 ![](Marketing_campaign.webp)
 
+### Data Source:
+ The dataset used for this analysis is "ABC Marketing Campaign Analysis.xlsx".
 - In January of 2021, ABC company launched a new product line and started creating awareness about the products on YouTube, Facebook, Tik Tok and Instagram.
 - Although ABC company made sales across all platforms, the marketing department suggests that sales would increase if ABC Company use paid advertisements on all 4 platforms.
 - On April 1st, 2021, ABC company started using paid advertisements which led to increase in sales.
@@ -50,6 +52,7 @@
 
 #### Create a dashboard on Superstore Analytics as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. 
 ---
+The dataset used for this analysis is "Superstore Data.xls".
 
 - 	The worksheet titles, KPI titles represent which dimensions/measures are required in respective places.
 - 	Make sure to use New Order Date in place of existing Order Date dimension for doing any date calculations or adding the Year filter on top.
@@ -73,6 +76,8 @@ Sales Analytics         |  Detail Report
 ##  Customer Incident Report
 ---
 ![](customer_incident_report.png)
+
+The dataset used for this analysis is "Customer Incident Data.xlsx".
 - You just got a position as a Business Intelligence Developer at a financial institution.
 - Your team is responsible for opening tickets regarding customer incidents on different products and services.
 #### Your task is to create a dashboard showing:
