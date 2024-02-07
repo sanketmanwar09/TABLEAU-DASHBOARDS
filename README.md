@@ -49,8 +49,9 @@
 - 	Make sure to show top 5 products w.r.t. sum of sales every time irrespective of any filter action values you select or any dropdown filter values you select.
 - 	On the click of Detail Report tab, the dashboard 2 should open and on the click of Sales Analytics tab, dashboard 1 should open. Use appropriate tooltips.
 
-
-
+#### You can Access the file:
+- File
+   - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/SuperstoreAnalyticsDashboard_17072159025010/Dashboard1?publish=yes)
 
 Sales Analytics         |  Detail Report
 :----------------------:|:-----------------------:
@@ -69,6 +70,10 @@ Sales Analytics         |  Detail Report
 
 #### Individual Incident Details:
    Incident ID, Incident name, Incident description, Sub issue, Status update, Date received, Due date, Customer name, Past due status, Account manager, Resolution status.
+
+#### You can Access the file:
+- File
+   - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/Customer_Incident_report/CustomerIncidentDashboard?publish=yes)
 
 ## Dashboard
 ![](Customer_incident.jpg)
