@@ -3,6 +3,7 @@
 ## Table of contents
 - [ABC Company Marketing Campaign](#abc-company-marketing-campaign)
 - [ Superstore Data Analytics](#superstore-data-analytics)
+- [Customer Incident Report](#customer-incident-report)
 
 
 ## ABC Company Marketing Campaign
