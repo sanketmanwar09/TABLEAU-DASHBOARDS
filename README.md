@@ -34,10 +34,21 @@
 
 
 # (2) Customer Incident Report
+![](customer_incident_report.png)
 - You just got a position as a Business Intelligence Developer at a financial institution.
 - Your team is responsible for opening tickets regarding customer incidents on different products and services.
-### Your task is to create a dashboard showing:
-Summary of all cases
+#### Your task is to create a dashboard showing:
+#### Summary of all cases:
+   - Total number of incidents
+   - Incident Classification (Low,Medium,High)
+   - Status signal of incidents (Green,Yellow,Red)
+
+#### Individual Incident Details:
+   Incident ID, Incident name, Incident description, Sub issue, Status update, Date received, Due date, Customer name, Past due status, Account manager, Resolution status.
+
+## Dashboard
+![](Customer_incident.jpg)
+   
 
 
 
