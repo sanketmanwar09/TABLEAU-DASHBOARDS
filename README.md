@@ -16,6 +16,9 @@
 6. Customers demographic
 7.  Transaction methods
 8.  Sales by agents
+#### You can Access the file:
+- File
+   - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/MarketCampaigningProject-ABCCompany/Dashboard1?publish=yes)
 
 ## Dashboards
 ---
