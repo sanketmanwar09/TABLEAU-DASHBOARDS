@@ -1,11 +1,12 @@
 # Tableau Dashboards
 
 ## Table of contents
-- [(1)ABC Company Marketing Campaign](#(1)-abc-company-marketing-campaign)
-- [(2) Superstore Data Analytics](#(2)-superstore-data-analytics)
+- [ABC Company Marketing Campaign](#abc-company-marketing-campaign)
+- [ Superstore Data Analytics](#superstore-data-analytics)
 
 
-## (1)ABC Company Marketing Campaign
+## ABC Company Marketing Campaign
+---
 ![](Marketing_campaign.webp)
 
 - In January of 2021, ABC company launched a new product line and started creating awareness about the products on YouTube, Facebook, Tik Tok and Instagram.
@@ -43,9 +44,11 @@
 3. Although marketing cost increased in August & September , Profit ratio was below 15%.
 
 
-## (2) Superstore Data Analytics
+##  Superstore Data Analytics
+---
 
 #### Create a dashboard on Superstore Analytics as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. 
+---
 
 - 	The worksheet titles, KPI titles represent which dimensions/measures are required in respective places.
 - 	Make sure to use New Order Date in place of existing Order Date dimension for doing any date calculations or adding the Year filter on top.
@@ -57,6 +60,7 @@
 - 	On the click of Detail Report tab, the dashboard 2 should open and on the click of Sales Analytics tab, dashboard 1 should open. Use appropriate tooltips.
 
 #### You can Access the file:
+---
 - File
    - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/SuperstoreAnalyticsDashboard_17072159025010/Dashboard1?publish=yes)
 
@@ -65,20 +69,24 @@ Sales Analytics         |  Detail Report
 ![](D1_SUperstore.png)  | ![](D2_SUperstore.png)
 
 
-## (3) Customer Incident Report
+##  Customer Incident Report
+---
 ![](customer_incident_report.png)
 - You just got a position as a Business Intelligence Developer at a financial institution.
 - Your team is responsible for opening tickets regarding customer incidents on different products and services.
 #### Your task is to create a dashboard showing:
 #### Summary of all cases:
+---
    - Total number of incidents
    - Incident Classification (Low,Medium,High)
    - Status signal of incidents (Green,Yellow,Red)
 
 #### Individual Incident Details:
+---
    Incident ID, Incident name, Incident description, Sub issue, Status update, Date received, Due date, Customer name, Past due status, Account manager, Resolution status.
 
 #### You can Access the file:
+---
 - File
    - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/Customer_Incident_report/CustomerIncidentDashboard?publish=yes)
 
