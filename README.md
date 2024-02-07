@@ -15,7 +15,7 @@
 - On April 1st, 2021, ABC company started using paid advertisements which led to increase in sales.
 - It's now 6 months since the paid advertisement started. ABC company would like a detail analysis of sales performance before and after the paid advertisements.
 
-### Below are the performance metrics needed.
+### Below are the performance metrics needed
 ---
 1. Total Sales on social media platform before paid advertisement
 2. Total Sales on social media platform during paid advertisement
@@ -29,7 +29,7 @@
 - File
    - [View_Here](https://public.tableau.com/app/profile/sanket.manwar/viz/MarketCampaigningProject-ABCCompany/Dashboard1?publish=yes)
 
-### Dashboards
+### Dashboards:
 ---
 ### D1               
 ![](D1.jpg)        
