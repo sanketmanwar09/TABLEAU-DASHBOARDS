@@ -33,7 +33,15 @@
 3. Although marketing cost increased in August & September , Profit ratio was below 15%.
 
 
-# (2) Customer Incident Report
+# (2) Superstore Data Analytics
+
+### Create a dashboard on Superstore Analytics as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. Read this completely.
+Sales Analytics         |  Detail Report
+:----------------------:|:-----------------------:
+![](D1_SUperstore.png)  | ![](D2_SUperstore.png)
+
+
+# (3) Customer Incident Report
 ![](customer_incident_report.png)
 - You just got a position as a Business Intelligence Developer at a financial institution.
 - Your team is responsible for opening tickets regarding customer incidents on different products and services.
