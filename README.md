@@ -1,4 +1,4 @@
-# ABC Company Marketing Campaign
+# (1)ABC Company Marketing Campaign
 ![](Marketing_campaign.webp)
 
 - In January of 2021, ABC company launched a new product line and started creating awareness about the products on YouTube, Facebook, Tik Tok and Instagram.
@@ -32,4 +32,12 @@
 2. September 2022 has the lowest profit,with profit ratio of 9%.
 3. Although marketing cost increased in AUgust & September , Profit ratio was below 15%.
 
-  
+
+# (2) Customer Incident Report
+- You just got a position as a Business Intelligence Developer at a financial institution.
+- Your team is responsible for opening tickets regarding customer incidents on different products and services.
+### Your task is to create a dashboard showing:
+Summary of all cases
+
+
+
