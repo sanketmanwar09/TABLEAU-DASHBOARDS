@@ -35,7 +35,7 @@
 
 # (2) Superstore Data Analytics
 
-### Create a dashboard on Superstore Analytics as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. Read this completely.
+#### Create a dashboard on Superstore Analytics as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. Read this completely.
 Sales Analytics         |  Detail Report
 :----------------------:|:-----------------------:
 ![](D1_SUperstore.png)  | ![](D2_SUperstore.png)
