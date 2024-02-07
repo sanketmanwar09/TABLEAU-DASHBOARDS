@@ -1,4 +1,5 @@
 # ABC Company Marketing Campaign
+![](Marketing_campaign.webp)
 
 - In January of 2021, ABC company launched a new product line and started creating awareness about the products on YouTube, Facebook, Tik Tok and Instagram.
 - Although ABC company made sales across all platforms, the marketing department suggests that sales would increase if ABC Company use paid advertisements on all 4 platforms.
